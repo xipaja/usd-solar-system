@@ -1,0 +1,211 @@
+[
+    {
+      "shape": "Sphere",
+      "color": "Yellow",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Orange",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Orange",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Cyan",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Red",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Brown",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        5,
+        5,
+        5
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Yellow",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Brown",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        6,
+        1,
+        6
+      ],
+      "rotate": [
+        30,
+        0,
+        30
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Cyan",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Blue",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    },
+    {
+      "shape": "Sphere",
+      "color": "Grey",
+      "translate": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "orbit": [
+        15,
+        0,
+        0
+      ]
+    }
+  ]
